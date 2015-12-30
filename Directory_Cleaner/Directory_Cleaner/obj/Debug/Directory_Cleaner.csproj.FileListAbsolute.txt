@@ -1,0 +1,9 @@
+c:\users\halcyonabraham\documents\visual studio 2015\Projects\Directory_Cleaner\Directory_Cleaner\bin\Debug\Directory_Cleaner.exe.config
+c:\users\halcyonabraham\documents\visual studio 2015\Projects\Directory_Cleaner\Directory_Cleaner\bin\Debug\Directory_Cleaner.exe
+c:\users\halcyonabraham\documents\visual studio 2015\Projects\Directory_Cleaner\Directory_Cleaner\bin\Debug\Directory_Cleaner.pdb
+c:\users\halcyonabraham\documents\visual studio 2015\Projects\Directory_Cleaner\Directory_Cleaner\obj\Debug\Directory_Cleaner.Form1.resources
+c:\users\halcyonabraham\documents\visual studio 2015\Projects\Directory_Cleaner\Directory_Cleaner\obj\Debug\Directory_Cleaner.Properties.Resources.resources
+c:\users\halcyonabraham\documents\visual studio 2015\Projects\Directory_Cleaner\Directory_Cleaner\obj\Debug\Directory_Cleaner.csproj.GenerateResource.Cache
+c:\users\halcyonabraham\documents\visual studio 2015\Projects\Directory_Cleaner\Directory_Cleaner\obj\Debug\Directory_Cleaner.exe
+c:\users\halcyonabraham\documents\visual studio 2015\Projects\Directory_Cleaner\Directory_Cleaner\obj\Debug\Directory_Cleaner.pdb
+C:\Users\HalcyonAbraham\Documents\Visual Studio 2015\Projects\Directory_Cleaner\Directory_Cleaner\obj\Debug\Directory_Cleaner.csprojResolveAssemblyReference.cache
